@@ -1,6 +1,25 @@
 window.addEventListener('load', init);
 
-var words = ['Hanzala','Hamza','Hassan','Hashir'];
+var words = [ 'apple',
+  'beach',
+  'cloud',
+  'dream',
+  'frogs',
+  'grape',
+  'happy',
+  'jazz',
+  'kiwi',
+  'lemon',
+  'mango',
+  'night',
+  'olive',
+  'peace',
+  'queen',
+  'rainy',
+  'shine',
+  'tiger',
+  'upset',
+  'vivid'];
 
 // Available Levels
 const levels = {
